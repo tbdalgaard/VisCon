@@ -161,4 +161,5 @@ license_information.deactivate.question: "Are you really sure you wan't to deact
 license_information.deactivate.success: "VisCon was successfully deactivated.\nVisCon will now exit!"
 license_information.deactivate.error1: "VisCon is already disactivated on this computer.\nIf this problem persist contact VisCon Support at support@visconapp.com."
 license_information.deactivate.error2: "An unexpected error was encountered while trying to deactivate your copy of VisCon.\nIf this persist, please contact VisCon Support at support@visconapp.com."
-
+# 1.0.0 rc
+logviewer.open_folder: "Open Logs Folder"
