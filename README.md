@@ -1,11 +1,15 @@
 # VisCon
-This repository holds the official translations and user documentation for [VisCon](https://visconapp.com) and the issuge tracker for the product itself.
+
+This repository holds the official translations and user documentation for [VisCon](https://visconapp.com) and the issue tracker for the product itself.
 
 # Bug reports.
+
 If you found a bug in the main program, in the translations or in the user documentation feel free to throw a bug report our way.
+
 note: If it have something to do with the VisCon application crashing, please include the log output and as much information about the machine as possible.
 
 # Contributing
+
 - Make a clone of the master branch.
 - Make the changes
 - Make a pull request against the snapshot branch
